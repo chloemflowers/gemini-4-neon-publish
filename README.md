@@ -1,0 +1,2 @@
+# gemini-4-neon-publish
+2026 年 11 月 18 日，Google DeepMind 正式发布了 Gemini 4 Neon。官方博客 Introducing Gemini 4 Neon 把这款模型放在软件工程、知识工作和科学研究上，强调能把复杂任务更快地从头做到尾。中文介绍见 Google 黑板报。官方在 Gemini 应用的说明里也写了：Neon 行文更清晰，结构更稳，语气更自然。
